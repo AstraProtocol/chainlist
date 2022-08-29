@@ -65,7 +65,7 @@
     },
     "11155111":{
         "rpcs":[
-            "https://nunki.htznr.fault.dev/rpc" 
+            "https://nunki.htznr.fault.dev/rpc"
         ]
     },
     "56": {
@@ -1368,6 +1368,11 @@
         "rpcs":[
             "https://evm.cryptocurrencydevs.org",
             "https://rpc.crystaleum.org"
+        ]
+    },
+    "11110": {
+        "rpcs": [
+            "https://rpc.astranaut.io"
         ]
     }
 }
